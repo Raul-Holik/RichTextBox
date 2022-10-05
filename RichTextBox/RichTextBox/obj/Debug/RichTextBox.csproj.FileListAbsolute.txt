@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Form1.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Properties.Resources.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\bin\Debug\RichTextBox.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\obj\Debug\RichTextBox.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\RichTextBox\RichTextBox\obj\Debug\RichTextBox.pdb
